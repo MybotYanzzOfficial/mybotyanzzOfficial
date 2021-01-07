@@ -15,9 +15,9 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Yanzz Official Qu☄'; 
 const instagram = 'https://instagram.com/zxuan54'; 
-const telegram = 'https://t.me/reuzzz'; 
+const telegram = 'https:-'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/Yanzz Official';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
