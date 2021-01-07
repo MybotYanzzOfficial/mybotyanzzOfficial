@@ -124,11 +124,11 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : Yanzz Official
+• WA : 081803522862
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *YOUTUBE YanzZ Official*
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
 `
