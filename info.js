@@ -11,11 +11,11 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 INFO BOT! :
 🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
+🔱 *GITHUB*: https://github.com/MyBotYanzzOfficial/mybotyanzzofficial
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : 081803522862
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
